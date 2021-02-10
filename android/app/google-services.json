@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842611585906",
+    "project_id": "flash-chat-9213e",
+    "storage_bucket": "flash-chat-9213e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842611585906:android:c0342017c185e4faa6e3eb",
+        "android_client_info": {
+          "package_name": "co.PaulCutter.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842611585906-oeo3h1fe07jc6k64hk0hqo1coib0s4pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkXebVTogJsMbcUUZ0pQk7aPf5NBpecI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842611585906-oeo3h1fe07jc6k64hk0hqo1coib0s4pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
